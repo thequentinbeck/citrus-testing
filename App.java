@@ -10,4 +10,10 @@ public class App {
         System.out.println("not helpful");
         return -1;
     }
+
+    public void printNumbers() {
+        for (int k = 0; k < 20; k++) {
+            System.out.println(k);
+        }
+    }
 }
