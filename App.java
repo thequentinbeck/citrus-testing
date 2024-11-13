@@ -6,7 +6,8 @@ public class App {
         System.out.println("birth year: %d", BIRTH_YEAR);
     }
 
-    private void helper() {
+    private int helper() {
         System.out.println("not helpful");
+        return -1;
     }
 }
