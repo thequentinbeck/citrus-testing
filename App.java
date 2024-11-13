@@ -16,4 +16,8 @@ public class App {
             System.out.println(k);
         }
     }
+
+    public void getNothing() {
+        int k;
+    }
 }
