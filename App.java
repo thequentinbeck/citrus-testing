@@ -5,4 +5,8 @@ public class App {
         System.out.println("hello world");
         System.out.println("birth year: %d", BIRTH_YEAR);
     }
+
+    private void helper() {
+        System.out.println("not helpful");
+    }
 }
